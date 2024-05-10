@@ -27,10 +27,10 @@ Minha jornada acadêmica tem sido enriquecida com experiências em linguagens pr
 </br>
 
 <P align="center">
-Neste momento, estou à procura de uma oportunidade na área de Tecnologia para iniciar minha carreira e conquistar mais conhecimento, 
-minha habilidade em aprender com facilidade e minha resiliência diante de desafios têm fortalecido meu progresso e meus estudos.
-Fico grato por quaisquer oportunidades ou conexões que possam me ajudar neste momento, estou ansioso para contribuir de maneira valiosa 
-para qualquer equipe.
+Neste momento, estou à procura de uma oportunidade na área de Tecnologia para iniciar minha carreira 
+e conquistar mais conhecimento, minha habilidade em aprender com facilidade e minha resiliência diante 
+de desafios têm fortalecido meu progresso e meus estudos. Fico grato por quaisquer oportunidades ou conexões
+que possam me ajudar neste momento, estou ansioso para contribuir de maneira valiosa para qualquer equipe.
 </P>
 </br>
 
