@@ -1,11 +1,12 @@
-<div align="center">
+
 # Olá, me chamo Jhonny Guimarães ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-
+<P>
 Sou estudante de Sistemas de Informação, atualmente no quinto (5°) ano do curso. 
 Minha jornada acadêmica tem sido enriquecida com experiências em linguagens programação listadas abaixo, todas as nivel academica básica e aplicados em design patterns como Factory Method, Injeção de dependência, Abstract Factory, Observer e conceitos do S.O.L.I.D.
-</div>
+</P>
+
 </br>
 </br>
 
@@ -29,7 +30,7 @@ Minha jornada acadêmica tem sido enriquecida com experiências em linguagens pr
 </br>
 </br>
 
-<P align="center">
+<P>
 Neste momento, estou à procura de uma oportunidade na área de Tecnologia para iniciar minha carreira 
 e conquistar mais conhecimento, minha habilidade em aprender com facilidade e minha resiliência diante 
 de desafios têm fortalecido meu progresso e meus estudos. Fico grato por quaisquer oportunidades ou conexões
@@ -41,10 +42,10 @@ que possam me ajudar neste momento, estou ansioso para contribuir de maneira val
 
 </br>
 
-<div align="center">
-<a href="https://www.linkedin.com/in/jhonny-guimaraes" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
+
+<a href="https://www.linkedin.com/in/jhonny-guimaraes" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://dev.to/jguimaraesdev" target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
-</div>
+
 </br>
 
 ##
