@@ -4,7 +4,7 @@
 Sou estudante de Sistemas de Informação, atualmente no terceiro ano do curso. 
 Minha jornada acadêmica tem sido enriquecida com experiências em linguagens programação listadas abaixo, todas as nivel academica básica.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />,
+<img align="right" width="150px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />,
