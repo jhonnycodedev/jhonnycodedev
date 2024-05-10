@@ -26,7 +26,7 @@ Minha jornada acadêmica tem sido enriquecida com experiências em linguagens pr
 </br>
 </br>
 
-<P>
+<P align="center">
 Neste momento, estou à procura de uma oportunidade na área de Tecnologia para iniciar minha carreira e conquistar mais conhecimento, 
 minha habilidade em aprender com facilidade e minha resiliência diante de desafios têm fortalecido meu progresso e meus estudos.
 Fico grato por quaisquer oportunidades ou conexões que possam me ajudar neste momento, estou ansioso para contribuir de maneira valiosa 
@@ -38,10 +38,10 @@ para qualquer equipe.
 
 </br>
 
-
-<a href="https://www.linkedin.com/in/jhonny-guimaraes" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<div align="center">
+<a href="https://www.linkedin.com/in/jhonny-guimaraes" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
 <a href="https://dev.to/jguimaraesdev" target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
-
+</div>
 </br>
 
 ##
