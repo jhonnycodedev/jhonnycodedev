@@ -1,8 +1,11 @@
+<div align="center">
 # Olá, me chamo Jhonny Guimarães ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
+
 Sou estudante de Sistemas de Informação, atualmente no quinto (5°) ano do curso. 
 Minha jornada acadêmica tem sido enriquecida com experiências em linguagens programação listadas abaixo, todas as nivel academica básica e aplicados em design patterns como Factory Method, Injeção de dependência, Abstract Factory, Observer e conceitos do S.O.L.I.D.
+</div>
 </br>
 </br>
 
