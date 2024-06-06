@@ -22,8 +22,8 @@
     <img align="center" alt="next" src="https://img.shields.io/badge/Next.js-01F75C?style=for-the-badge&logo=next.js&logoColor=black" />
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-004B5E?style=for-the-badge&logo=mysql&logoColor=white" />
   </div><br/>        
-   <p>
- </br>
+
+  </br>
 
   📫 Você pode falar comigo pelos canais abaixo e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios.
 
@@ -34,10 +34,11 @@
     <a href="https://www.linkedin.com/in/jhonny-guimaraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://dev.to/jguimaraesdev" target="_blank"><img src="https://img.shields.io/badge/-Dev-000000?style=for-the-badge&logo=dev&logoColor=white" target="_blank"></a> 
   </div>
-  </p>
-  
   </br>
-  
-![jguimaraesdev's Stats](https://github-readme-stats.vercel.app/api?username=jguimaraesdev&theme=dark&show_icons=true&hide_border=true&count_private=false)
-![jguimaraesdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jguimaraesdev&theme=dark&hide_border=true)
-![jguimaraesdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jguimaraesdev&theme=dark&show_icons=true&hide_border=true&layout=compact)
+  </br>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+    <img height="190px" src="https://github-readme-stats.vercel.app/api?username=jguimaraesdev&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
+    <!--<img height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=jguimaraesdev&theme=dark&hide_border=true"/>-->
+    <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jguimaraesdev&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
+  </div>
+</div>
