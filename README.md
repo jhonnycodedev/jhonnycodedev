@@ -34,8 +34,9 @@
     <a href="https://www.linkedin.com/in/jhonny-guimaraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://dev.to/jguimaraesdev" target="_blank"><img src="https://img.shields.io/badge/-Dev-000000?style=for-the-badge&logo=dev&logoColor=white" target="_blank"></a> 
   </div>
+  </br>
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-    <img height="315px" src="https://github-readme-streak-stats.herokuapp.com/?user=jguimaraesdev&theme=dark&hide_border=true"/>
+    <img height="317px" src="https://github-readme-streak-stats.herokuapp.com/?user=jguimaraesdev&theme=dark&hide_border=true"/>
     <img height="190px" src="https://github-readme-stats.vercel.app/api?username=jguimaraesdev&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
     <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jguimaraesdev&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
   </div>
