@@ -26,6 +26,8 @@ Gosto de explorar novos conhecimentos e ver como as coisas funcionan ou podem se
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>   
+
+https://dev.to/envoy_/150-badges-for-github-pnk
 -->
 ##
  Algumas das linguagens que já ultilizei ou fazem parte do meu dia-dia:
