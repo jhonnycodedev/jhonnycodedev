@@ -4,11 +4,13 @@
 ## 💼 Sobre mim / About me
 
 🎓 Discente Sistemas de Informação
+⚡ Desenvolvedor Full Stack
 
-Sou perfeccionista e autodidata então é comum me envolver nas duas frentes de desenvolvimento de software.
-Gosto de explorar novos conhecimentos e ver como as coisas funcionan ou podem ser melhoradas, com isso a tecnologia me entrega um mundo de opções a ser exploradas.
+Gosto de explorar novos conhecimentos e ver como as coisas funcionan ou podem ser melhoradas, com isso a tecnologia me entrega um mundo de opções a ser exploradas. Sou perfeccionista e autodidata então é comum me envolver nas duas frentes de desenvolvimento de software.
 </br>
 </br>
+
+
 
 <!--
 <div display="flex">
@@ -60,11 +62,4 @@ https://dev.to/envoy_/150-badges-for-github-pnk
     <a href="https://www.linkedin.com/in/jhonny-guimaraes"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://dev.to/jguimaraesdev" target="_blank"><img src="https://img.shields.io/badge/-Dev-000000?style=for-the-badge&logo=dev&logoColor=white" target="_blank"></a> 
   </div>
-  
-   ##
-  <p style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-    <img height="190px" src="https://github-readme-stats.vercel.app/api?username=jguimaraesdev&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
-    <!--<img height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=jguimaraesdev&theme=dark&hide_border=true"/>-->
-    <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jguimaraesdev&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
-  </p>
 
