@@ -8,9 +8,10 @@
 Sou perfeccionista e autodidata então é comum me envolver nas duas frentes de desenvolvimento de software.
 Gosto de explorar novos conhecimentos e ver como as coisas funcionan ou podem ser melhoradas, com isso a tecnologia me entrega um mundo de opções a ser exploradas.
 </br>
-  </br>
+</br>
+
 <!--
- <div display="flex">
+<div display="flex">
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
@@ -26,8 +27,9 @@ Gosto de explorar novos conhecimentos e ver como as coisas funcionan ou podem se
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>   
 -->
+##
+ Algumas das linguagens que já ultilizei ou fazem parte do meu dia-dia:
 
-Algumas das linguagens que já utilizei na universidade ou fazem parte do meu dia-dia:
 <br/>
   <div style="display: flex">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
