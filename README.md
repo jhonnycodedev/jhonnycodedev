@@ -4,7 +4,7 @@
 ## 💼 Sobre mim / About me
 
 🎓 Discente Sistemas de Informação
-⚡ Desenvolvedor Backend | IoT
+⚡ Desenvolvedor Full Stack | IoT
 
 Gosto de explorar novos conhecimentos e ver como as coisas funcionam ou podem ser melhoradas. Com isso, a tecnologia me oferece um mundo de opções a ser exploradas. Sou perfeccionista e autodidata, então é comum me envolver nas duas frentes de desenvolvimento de software.
 </br>
