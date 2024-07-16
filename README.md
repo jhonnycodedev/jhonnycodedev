@@ -53,8 +53,8 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 -->
   
   ##
-  📫 Você pode falar comigo pelos canais abaixo e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios.
-
+  📫 Você pode falar comigo pelos canais ao lado e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios.
+<!--
   <br/>
   <div> 
     <a href="https://discord.gg/jguimaraes"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -63,3 +63,4 @@ https://dev.to/envoy_/150-badges-for-github-pnk
     <a href="https://dev.to/jguimaraesdev" target="_blank"><img src="https://img.shields.io/badge/-Dev-000000?style=for-the-badge&logo=dev&logoColor=white" target="_blank"></a> 
   </div>
 
+-->
