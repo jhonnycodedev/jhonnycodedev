@@ -30,7 +30,7 @@ Gosto de explorar novos conhecimentos e ver como as coisas funcionam ou podem se
 </div>   
 
 https://dev.to/envoy_/150-badges-for-github-pnk
--->
+
 ##
  Algumas das linguagens que já ultilizei ou fazem parte do meu dia-dia:
 
@@ -50,7 +50,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
     <img align="center" alt="mongo" src="https://img.shields.io/badge/mongo-001D2A?style=for-the-badge&logo=mongodb&logoColor=00E661" />
     <img align="center" alt="react" src="https://img.shields.io/badge/react-0D0627?style=for-the-badge&logo=react&logoColor=48CEF7" />
   </div>       
-
+-->
   
   ##
   📫 Você pode falar comigo pelos canais abaixo e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios.
