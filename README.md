@@ -1,13 +1,12 @@
-# Olá, me chamo Jhonny Guimarães ! 
-## Bem vindo ao meu perfil GitHub 👋
+# Hello, my name is Jhonny Guimarães!
+## Welcome to my GitHub profile 👋
 
-## 💼 Sobre mim / About me
+## 💼 About me
 
-🎓 Discente Sistemas de Informação
-⚡ Desenvolvedor Full Stack | IoT
+🎓 Information Systems Student
+⚡ Full Stack Developer | IoT
 
-Gosto de explorar novos conhecimentos e ver como as coisas funcionam ou podem ser melhoradas. Com isso, a tecnologia me oferece um mundo de opções a ser exploradas. Sou perfeccionista e autodidata, então é comum me envolver nas duas frentes de desenvolvimento de software.
-
+I like to explore new knowledge and see how things work or can be improved. With that, technology offers me a world of options to be explored. I'm a perfectionist and self-taught, so it's common for me to get involved in both fronts of software development.
 <!--
 <div display="flex">
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -28,7 +27,7 @@ Gosto de explorar novos conhecimentos e ver como as coisas funcionam ou podem se
 https://dev.to/envoy_/150-badges-for-github-pnk
 -->
 ##
- Algumas das linguagens que já ultilizei ou fazem parte do meu dia-dia:
+ Some of the languages ​​I have used or that are part of my daily life:
 
 <br/>
   <div style="display: flex">
@@ -49,7 +48,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
   
   ##
-  📫 Você pode falar comigo pelos canais ao lado e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios.
+  📫 You can talk to me through the channels below and you can learn about my projects that I have already developed, which are available here in the repositories.
 <!--
   <br/>
   <div> 
