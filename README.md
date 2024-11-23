@@ -49,7 +49,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   
   ##
   📫 You can talk to me through the channels below and you can learn about my projects that I have already developed, which are available here in the repositories.
-<!--
+
   <br/>
   <div> 
     <a href="https://discord.gg/jguimaraes"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -58,4 +58,4 @@ https://dev.to/envoy_/150-badges-for-github-pnk
     <a href="https://dev.to/jguimaraesdev" target="_blank"><img src="https://img.shields.io/badge/-Dev-000000?style=for-the-badge&logo=dev&logoColor=white" target="_blank"></a> 
   </div>
 
--->
+
