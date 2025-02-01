@@ -58,4 +58,4 @@ https://dev.to/envoy_/150-badges-for-github-pnk
     <a href="https://dev.to/jguimaraesdev" target="_blank"><img src="https://img.shields.io/badge/-Dev-000000?style=for-the-badge&logo=dev&logoColor=white" target="_blank"></a> 
   </div>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=codeguima&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
