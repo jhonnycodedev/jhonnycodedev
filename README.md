@@ -33,6 +33,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   <div style="display: flex">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
     <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-E42C2E?style=for-the-badge&logo=java&logoColor=white" />
@@ -44,6 +45,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
     <img align="center" alt=".net" src="https://img.shields.io/badge/Core-642076?style=for-the-badge&logo=.net&logoColor=white" />
     <img align="center" alt="mongo" src="https://img.shields.io/badge/mongo-001D2A?style=for-the-badge&logo=mongodb&logoColor=00E661" />
     <img align="center" alt="react" src="https://img.shields.io/badge/react-0D0627?style=for-the-badge&logo=react&logoColor=48CEF7" />
+    
   </div>       
 
   
